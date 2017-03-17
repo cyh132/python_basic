@@ -6,19 +6,15 @@ Study the basics about Python A-Z
 - Do data analysis project
 - Task automation
 
-### Study Date
-Study once a week.
-
-Every Sunday PM 1:30 - 3:30
-
-Start on 2017/02/11
+### Study Information
+- Study once a week.
+- Every Sunday PM 1:30 - 3:30
+- Start on 2017/02/11
 
 ### Study Member
-Yonghwan : https://github.com/cyh132
-
-Taejoon  : https://github.com/gogoj5896
-
-Daehwan  : https://github.com/KimDH94
+- Yonghwan : @cyh132(Reader)
+- Taejoon  : @gogoj5896
+- Daehwan  : @KimDH94
 
 ### Study curriculum
 - week1(2017/02/11) : Data analysis introduction
