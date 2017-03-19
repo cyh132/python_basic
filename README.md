@@ -12,9 +12,9 @@ Study the basics about Python A-Z
 - Start on 2017/02/11
 
 ### Study Member
-- Yonghwan : @cyh132(Reader)
-- Taejoon  : @gogoj5896
-- Daehwan  : @KimDH94
+- Yonghwan : [cyh132](https://github.com/cyh132)(Reader)
+- Taejoon  : [gogoj5896](https://github.com/gogoj5896)
+- Daehwan  : [KimDH94](https://github.com/KimDH94)
 
 ### Study curriculum
 - week1(2017/02/11) : Data analysis introduction
