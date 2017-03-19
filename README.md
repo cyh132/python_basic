@@ -22,4 +22,4 @@ Study the basics about Python A-Z
 - week3(2017/02/25) : Data type 
 - week4(2017/03/04) : if, while, for
 - week5(2017/03/12) : file input/output, function, list, dict
-- week6(2017/03/19) : list, dict, find prime numbers
+- week6(2017/03/19) : list loop, function
