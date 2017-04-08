@@ -23,3 +23,5 @@ Study the basics about Python A-Z
 - week4(2017/03/04) : if, while, for
 - week5(2017/03/12) : file input/output, function, list, dict
 - week6(2017/03/19) : list loop, function
+- week7(2017/04/02) : get prime number, lambda(map, filter, reduce)
+- week8(2017/04/08) : list comprehension
