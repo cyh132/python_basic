@@ -25,3 +25,5 @@ Study the basics about Python A-Z
 - week6(2017/03/19) : list loop, function
 - week7(2017/04/02) : get prime number, lambda(map, filter, reduce)
 - week8(2017/04/08) : list comprehension
+- week9(2017/04/15) : word split, join, replace
+- week10(2017/04/22): Object Oriented Programming
